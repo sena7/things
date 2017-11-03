@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: rgb(51, 204, 204);
+}
+input{
+	margin: 5px;
+	
+}
+div.body {
+	align: center;
+}
+
+div.loginContainer {
+	width: 50%;
+}
+
+div.loginContainer > section, aside {
+		/*background: #2db34a;*/
+	color: #fff;
+	margin: 1.858736059%;
+	padding: 20px 0;
+	text-align: center;
+	border-radius: 5px;
+}
+
+div.loginContainer > section {
+	float: left;
+	width: 63.197026%;
+}
+
+div.loginContainer > aside {
+	float: right;
+	width: 29.3680297%;
+}
+
+

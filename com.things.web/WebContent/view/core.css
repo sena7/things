@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+button#basic{
+	color: rgb(0, 153, 255);
+}
+input[type="button"]{
+    background-color: #0099ff;
+}
